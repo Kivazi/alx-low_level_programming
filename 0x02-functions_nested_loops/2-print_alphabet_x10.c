@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - alphabet
+ * main - entry point
  * print_alphabet_x10 - print a - z ten times
- */
+ * Return: alphabets
+*/
 
 void print_alphabet_x10(void)
 {
